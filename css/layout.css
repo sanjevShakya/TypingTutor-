@@ -1,0 +1,18 @@
+#container {
+	margin: 0 auto;
+	width: 700px;
+	height: 500px;
+	overflow: hidden;
+	position: relative;
+	background: #dfdfdf;
+}
+
+div.word {
+	width: auto;
+	padding: 10px;
+	min-height: 25px;
+	background: grey;
+	color: #dfdfdf;
+	position: absolute;
+	text-align: center;
+}
